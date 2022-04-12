@@ -18,11 +18,11 @@ public class Com extends A{
 		
 		
 		Scanner input = new Scanner(System.in);
-<<<<<<< HEAD
+
 		ArrayList<String> arr = new ArrayList<String>();
-=======
+
 		HashMap<String,String> map = new HashMap<String, String>();
->>>>>>> 23bde11e31fac74fc8e402b978c1b62a930be634
+
 
 		for(;;) {
 			System.out.println("1. 학생관리  2. 직원관리  3. 게시판 관리");
